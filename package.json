@@ -1,0 +1,15 @@
+{
+  "name": "css-switch-gallery",
+  "version": "1.0.0",
+  "description": "a collection of css templates ready-to-use",
+  "license": "MIT",
+  "author": "Roberto Gomez",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
